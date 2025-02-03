@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLACKFINALJACK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9080946691b42a954402ad8a68ba509586712130")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d11b52c375064f6a89b2e7600ce658443033b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLACKFINALJACK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLACKFINALJACK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
