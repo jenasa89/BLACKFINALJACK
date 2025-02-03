@@ -165,7 +165,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Bienvenido al Blackjack!");
         BlackjackGame game = new BlackjackGame();
         game.Start();
     }
